@@ -1,7 +1,7 @@
 {
-    "prefix": ".",
+    "prefix": "prefix",
     "sahip": "sahip",
-    "token": "ODE0ODE4NzE1ODY1OTcyNzM2.YDjZEA.wiwtKTVH7-LeqIOGBoHHLFLlNwM",
+    "token": "token",
     "hg": true,
     "otorol": true,
     "otorolr": "814819338275913729",
@@ -11,4 +11,4 @@
     "kadın": "814824403653099530",
     "kayıtsız": "814819338275913729",
     "tag": "TEST - "
-}
+}// kendinize göre değiştirin
