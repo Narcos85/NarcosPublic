@@ -1,0 +1,19 @@
+{
+  "name": "narcospublic",
+  "version": "0.0.1",
+  "description": "narcos_code_public_bot",
+  "main": "narcos.js",
+  "scripts": {
+    "test": "node narcos.js"
+  },
+  "author": "narcos",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "wio.db": "^3.0.9"
+  }
+}
